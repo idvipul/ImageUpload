@@ -131,36 +131,3 @@ public class Main {
         }
     }
 }
-
-// file paths:
-// pdf
-// /Users/vipulkaranjkar/Downloads/DesignDoc_FamilyProtector.pdf
-
-// zip
-// /Users/vipulkaranjkar/Downloads/AndroidWeatherApp.zip
-
-// document
-// /Users/vipulkaranjkar/Downloads/report.docx
-
-// images with extensions:
-
-// jgp
-// /Users/vipulkaranjkar/Downloads/27331754_1001221986693530_4231997366632590410_n.jpg
-
-// jpeg
-// /Users/vipulkaranjkar/Downloads/32332231_1063246710491057_7848195178794844160_n.jpg
-// /Users/vipulkaranjkar/Downloads/example2.jpeg
-
-// gif
-// /Users/vipulkaranjkar/Downloads/giphy.gif
-
-// directory -- MAX LIMIT = 10
-
-// /Users/vipulkaranjkar/Downloads/SF_Wallpapers
-//  - contains 10 images - UPLOADED!
-
-// /Users/vipulkaranjkar/Downloads/img
-//  - contains 12 images - NOT UPLOADED!
-
-// /Users/vipulkaranjkar/Downloads/mongodb
-// - does not contain image - NOT UPLOADED!
